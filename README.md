@@ -2,7 +2,7 @@
 Run Gitpod workspace with Oracle Database
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucasjellema/gitpod-oracle-database)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AMIS-Services/gitpod-oracle-database19c-ee)
 
 
 Oracle Database XE is running in a container called *oracle-database-xe*.
